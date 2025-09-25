@@ -1,2 +1,2 @@
 # Vanlogic-llc
-Modular logistics framework built for freight, creators, and emotional resonance.
+We're not just moving packages-we're moving purpose.
